@@ -7,9 +7,13 @@ Traverse is built using decoupled architecture with angular.js, node.js and expr
 
 ## The Team
 Michael Chang (Team Lead)
+
 CJ Johnson 
+
 Karen Lo 
+
 Leonard Bui
+
 Vivian Fialho
 
 ##Let's travel. Let's converse. Let's traverse the world. 
